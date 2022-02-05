@@ -1,0 +1,39 @@
+C:\D\C#\Пятнашки\obj\Debug\Пятнашки.csprojAssemblyReference.cache
+C:\D\C#\Пятнашки\obj\Debug\Пятнашки.Пятнашки.resources
+C:\D\C#\Пятнашки\obj\Debug\Пятнашки.Properties.Resources.resources
+C:\D\C#\Пятнашки\obj\Debug\Пятнашки.csproj.GenerateResource.cache
+C:\D\C#\Пятнашки\bin\Debug\Пятнашки.exe.config
+C:\D\C#\Пятнашки\bin\Debug\Пятнашки.exe
+C:\D\C#\Пятнашки\bin\Debug\Пятнашки.pdb
+C:\D\C#\Пятнашки\obj\Debug\Пятнашки.exe
+C:\D\C#\Пятнашки\obj\Debug\Пятнашки.pdb
+D:\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.exe.config
+D:\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.exe
+D:\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.pdb
+D:\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csprojAssemblyReference.cache
+D:\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.Properties.Resources.resources
+D:\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csproj.GenerateResource.cache
+D:\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csproj.CoreCompileInputs.cache
+D:\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.exe
+D:\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.pdb
+D:\Пятнашки new\Пятнашки\obj\Debug\Pyatnashki.Pyatnashki.resources
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.exe.config
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.exe
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.pdb
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\obj\Debug\Pyatnashki.Pyatnashki.resources
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.Properties.Resources.resources
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.exe
+C:\Users\Admin\source\repos\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.pdb
+D:\mayProjects\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.exe.config
+D:\mayProjects\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.exe
+D:\mayProjects\Пятнашки new\Пятнашки\bin\Debug\Пятнашки.pdb
+D:\mayProjects\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csprojAssemblyReference.cache
+D:\mayProjects\Пятнашки new\Пятнашки\obj\Debug\Pyatnashki.Pyatnashki.resources
+D:\mayProjects\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.Properties.Resources.resources
+D:\mayProjects\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csproj.GenerateResource.cache
+D:\mayProjects\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.csproj.CoreCompileInputs.cache
+D:\mayProjects\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.exe
+D:\mayProjects\Пятнашки new\Пятнашки\obj\Debug\Пятнашки.pdb

@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\Admin\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\Admin\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.Calculator.resources
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.pdb
+C:\Users\Admin\source\repos\calculator\bin\Debug\asa-TZ\calculator.resources.dll
+C:\Users\Admin\source\repos\calculator\obj\Debug\calculator.Calculator.asa-TZ.resources
+C:\Users\Admin\source\repos\calculator\obj\Debug\asa-TZ\calculator.resources.dll

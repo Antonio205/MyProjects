@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\birds 23\bin\Debug\netcoreapp3.1\birds 23.exe
+C:\Users\Admin\source\repos\birds 23\bin\Debug\netcoreapp3.1\birds 23.deps.json
+C:\Users\Admin\source\repos\birds 23\bin\Debug\netcoreapp3.1\birds 23.runtimeconfig.json
+C:\Users\Admin\source\repos\birds 23\bin\Debug\netcoreapp3.1\birds 23.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\birds 23\bin\Debug\netcoreapp3.1\birds 23.dll
+C:\Users\Admin\source\repos\birds 23\bin\Debug\netcoreapp3.1\birds 23.pdb
+C:\Users\Admin\source\repos\birds 23\obj\Debug\netcoreapp3.1\birds 23.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\birds 23\obj\Debug\netcoreapp3.1\birds 23.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\birds 23\obj\Debug\netcoreapp3.1\birds 23.AssemblyInfo.cs
+C:\Users\Admin\source\repos\birds 23\obj\Debug\netcoreapp3.1\birds 23.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\birds 23\obj\Debug\netcoreapp3.1\birds 23.dll
+C:\Users\Admin\source\repos\birds 23\obj\Debug\netcoreapp3.1\birds 23.pdb
+C:\Users\Admin\source\repos\birds 23\obj\Debug\netcoreapp3.1\birds 23.genruntimeconfig.cache

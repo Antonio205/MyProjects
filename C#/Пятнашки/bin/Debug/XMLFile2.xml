@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfGameResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameResult>
+    <Player>player</Player>
+    <BeginTime>0001-01-01T00:00:00</BeginTime>
+    <CollectTime>3</CollectTime>
+    <StepNumber>0</StepNumber>
+  </GameResult>
+  <GameResult>
+    <Player>Player</Player>
+    <BeginTime>2021-05-18T19:26:32.8292341+03:00</BeginTime>
+    <CollectTime>74</CollectTime>
+    <StepNumber>160</StepNumber>
+  </GameResult>
+  <GameResult>
+    <Player>player</Player>
+    <BeginTime>2021-05-19T21:59:38.4949043+03:00</BeginTime>
+    <CollectTime>2</CollectTime>
+    <StepNumber>0</StepNumber>
+  </GameResult>
+  <GameResult>
+    <Player>NoName</Player>
+    <BeginTime>2022-02-02T14:13:01.4248337+03:00</BeginTime>
+    <CollectTime>19</CollectTime>
+    <StepNumber>27</StepNumber>
+  </GameResult>
+</ArrayOfGameResult>
